@@ -710,7 +710,6 @@ var SuperGif = function ( opts ) {
 					putFrame();
 				}
 			},
-			current_frame: curFrame,
 			step: step,
 			play: play,
 			pause: pause,
